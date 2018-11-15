@@ -1,0 +1,13 @@
+https://www.quackit.com/html/codes/html_marquee_code.cfm
+http://xsokev.github.io/Dojo-Bootstrap/marquee.html
+
+        .avatar {
+            /* cambia estos dos valores para definir el tamaño de tu círculo */
+            height: 100px;
+            width: 100px;
+            /* los siguientes valores son independientes del tamaño del círculo */
+            background-repeat: no-repeat;
+            background-position: 50%;
+            border-radius: 50%;
+            background-size: 100% auto;
+        }
